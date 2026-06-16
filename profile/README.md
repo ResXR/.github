@@ -10,8 +10,6 @@ Open-source infrastructure for reproducible, standardized XR behavioral research
 [![Status](https://img.shields.io/badge/Status-Pre--release-64748b?style=flat-square)](https://resxr.org)
 [![IEEE VR 2026](https://img.shields.io/badge/IEEE_VR_2026-Research_Demo-4338ca?style=flat-square)](https://doi.org/10.1109/VRW70859.2026.00377)
 
-[Website](https://resxr.org) &nbsp;·&nbsp; [Unity Template](https://github.com/ResXR/resxr-unity-research-template) &nbsp;·&nbsp; [Python Pipeline](https://github.com/ResXR/resxr-python-pipeline)
-
 </div>
 
 ---
