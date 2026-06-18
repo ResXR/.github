@@ -8,7 +8,9 @@ Open-source infrastructure for reproducible, standardized XR behavioral research
 
 [![License](https://img.shields.io/badge/License-Apache_2.0-475569?style=flat-square)](https://www.apache.org/licenses/LICENSE-2.0)
 [![Status](https://img.shields.io/badge/Status-Pre--release-64748b?style=flat-square)](https://resxr.org)
+[![Docs](https://img.shields.io/badge/docs-docs.resxr.org-047857?style=flat-square)](https://docs.resxr.org)
 [![IEEE VR 2026](https://img.shields.io/badge/IEEE_VR_2026-Research_Demo-4338ca?style=flat-square)](https://doi.org/10.1109/VRW70859.2026.00377)
+
 
 </div>
 
@@ -46,6 +48,8 @@ ResXR is organized into four functional stages. The glass-box architecture allow
 <br>
 
 ## Getting Started
+You can find complete setup, usage, and developer guides at our documentation hub:
+*   **📖 Read the Documentation:** https://docs.resxr.org
 
 Each repository contains its own installation and usage instructions:
 *   **Build and run experiments:** [resxr-unity-research-template](https://github.com/ResXR/resxr-unity-research-template)
