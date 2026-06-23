@@ -7,7 +7,9 @@
 Open-source infrastructure for reproducible, standardized XR behavioral research.
 
 [![License](https://img.shields.io/badge/License-Apache_2.0-475569?style=flat-square)](https://www.apache.org/licenses/LICENSE-2.0)
+[![Website](https://img.shields.io/badge/Website-resxr.org-2563EB?style=flat-square)](https://resxr.org)
 [![Docs](https://img.shields.io/badge/docs-docs.resxr.org-047857?style=flat-square)](https://docs.resxr.org)
+[![Preprint](https://img.shields.io/badge/Preprint-bioRxiv-bb2025?style=flat-square)](https://doi.org/10.64898/2026.06.17.732869)
 [![IEEE VR 2026](https://img.shields.io/badge/IEEE_VR_2026-Research_Demo-4338ca?style=flat-square)](https://doi.org/10.1109/VRW70859.2026.00377)
 
 
@@ -58,7 +60,7 @@ Each repository contains its own installation and usage instructions:
 
 ## Project Status
 
-A manuscript detailing the ResXR toolkit is currently in preparation for publication. A research demonstration of this pipeline was presented at IEEE VR 2026 ([DOI: 10.1109/VRW70859.2026.00377](https://doi.org/10.1109/VRW70859.2026.00377)). *Please note that APIs may change prior to a stable, tagged release.*
+A preprint describing the ResXR toolkit is available on **bioRxiv** ([DOI: 10.64898/2026.06.17.732869](https://doi.org/10.64898/2026.06.17.732869)), with the manuscript currently in preparation for publication. A research demonstration of this pipeline was presented at **IEEE VR 2026** ([DOI: 10.1109/VRW70859.2026.00377](https://doi.org/10.1109/VRW70859.2026.00377)). *Please note that APIs may change prior to a stable, tagged release.*
 
 <br>
 
