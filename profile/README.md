@@ -66,7 +66,7 @@ A preprint describing the ResXR toolkit is available on **bioRxiv** ([DOI: 10.64
 
 ## License & Contributing
 
-Released under **Apache 2.0** with a Contributor License Agreement to keep academic reuse open while preserving a clear contribution path. Contributions are welcome; please see the contributing guide in each respective repository.
+Released under **Apache 2.0** to keep academic reuse open while preserving a clear contribution path. Contributions are welcome through issues and pull requests in each repository.
 
 <br>
 
